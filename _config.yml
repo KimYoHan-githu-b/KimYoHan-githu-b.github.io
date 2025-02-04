@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "KimYoHan_profile"
+title                    : "Study_profile"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "KIM YO HAN"
 description              : "An amazing website."
 url                      : "https://KimYoHan-.githu-b.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "KIM YO HAN"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "STUDY HARD. BE PATIENT. STEP BY STEP."
   location         : "Somewhere"
   email            :
   links:
